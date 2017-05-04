@@ -1,5 +1,5 @@
 {
-  "name": "marvel-api",
+  "name": "@faceleg/marvel-api",
   "version": "1.0.0",
   "description": "Node.js wrapper for working with the official Marvel Comics API",
   "main": "index.js",
